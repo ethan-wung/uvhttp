@@ -1,6 +1,6 @@
 # uvhttp
 
-C++17、libuv 非阻塞事件循环的 HTTP/1.0、HTTP/1.1 和 HTTP/2 客户端/服务器。支持异步缓冲/流式请求、连接池、OpenSSL TLS、HTTP/2 同步包装、同步流式读写及统一协议入口。HTTPS 指 HTTP over TLS，不是独立 HTTP 版本。
+C++17、libuv 非阻塞事件循环的 HTTP/1.0、HTTP/1.1 和 HTTP/2 客户端/服务器。支持异步缓冲/流式请求、连接池、OpenSSL TLS、HTTP/2 同步包装、同步流式读写及统一协议入口。
 
 ## 依赖与构建
 
